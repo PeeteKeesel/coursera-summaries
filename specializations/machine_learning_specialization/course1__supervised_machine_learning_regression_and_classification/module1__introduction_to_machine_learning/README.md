@@ -45,8 +45,10 @@ __One Feature__:
 __Multiple Feature__:
 
 $$
-\text{repeat until convergence:} \; \\
-    w = w - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})x^ {(i)} \\
+\text{repeat until convergence:} \; \newline
+
+    w = w - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})x^ {(i)} \newline
+
     b = b - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})
 $$
 
