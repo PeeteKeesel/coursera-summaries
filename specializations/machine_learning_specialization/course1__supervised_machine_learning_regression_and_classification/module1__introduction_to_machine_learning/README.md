@@ -44,12 +44,10 @@ __One Feature__:
 
 __Multiple Feature__:
 
+Repeat until convergence:
 $$
-\text{repeat until convergence:} \; \newline
-
-    w = w - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})x^ {(i)} \newline
-
-    b = b - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})
+    w = w - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})x^ {(i)} = w - \alpha \frac{\partial}{\partial w} J(w,b) \newline
+    b = b - \alpha \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)}) = b - \alpha \frac{\partial}{\partial b} J(w,b)
 $$
 
 $$
