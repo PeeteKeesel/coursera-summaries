@@ -1,4 +1,3 @@
-# Week 1
 
 - _What is Machine Learning?_: "Field of study that gives computers the ability to learn without being explicitly programmed."
 - _Supervised Learning_
@@ -28,4 +27,28 @@
     6. Visual inspection
         - Input: Image of phone
         - Output: Defect (1) or no defect (0)
-- _Unsupervised Learning_
+
+# 1. Linear Regression
+
+__Univariate Linear Regression__:
+
+
+__Multivariate/Multiple Linear Regression__:
+
+
+# 2. Cost Function
+
+# 3. Gradient Descent
+
+__One Feature__:
+
+__Multiple Feature__:
+
+$$\begin{align*}&
+\text{repeat until convergence:} \; \lbrace \\
+    w &= w - \alpha \underbrace{\frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})x^ {(i)}}_{\frac{\partial}{\partial w} J(w,b)} \\
+    b &= b - \alpha \underbrace{\frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^ {(i)}) - y^{(i)})}_{\frac{\partial}{\partial b} J(w,b)} \\
+    % \text{simultaneously update} \; w,b \\
+    \rbrace
+\end{align*}
+$$
