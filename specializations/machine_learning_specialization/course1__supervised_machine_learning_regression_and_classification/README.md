@@ -36,7 +36,10 @@ __Univariate Linear Regression__:
 __Multivariate/Multiple Linear Regression__:
 
 
-# 2. Cost Function
+# 2. Loss and Cost Function
+
+- Loss function: Error for a single training example
+- Cost function: Total error of a set of data points
 
 # 3. Gradient Descent
 
@@ -57,3 +60,21 @@ $$
     % \text{simultaneously update} \; w,b \\
     \rbrace
 $$
+
+# Logistic Regression
+
+__Loss Function:__
+
+$$
+L( f_{\vec{w},b}(\vec{x}^ {(i)}), y^{(i)}) = -y^{(i)} \log(f_{\vec{w},b}(\vec{x}^ {(i)})) - (1 - y^{(i)}) \log (1 - f_{\vec{w},b}(\vec{x}^ {(i)}))
+$$
+
+- :white_check_mark: The loss function is convex (single global minimum)
+
+__Cost Function:__
+
+$$
+J( \vec{w}, b ) = \frac{1}{m} \sum_{i=1}^{m} [ L( f_{\vec{w},b}(\vec{x}^ {(i)}), y^{(i)}) ]
+$$
+
+_Why choose this particular function?_ Has been derived using Maximum Likelihood Estimation (TODO: include proof).

@@ -1,0 +1,1 @@
+This folder contains summaries and notes for Courses on Coursera.
