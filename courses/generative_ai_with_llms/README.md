@@ -8,3 +8,11 @@ Coursera
 deeplearning.ai
 AWS
 ```
+
+## Notes 
+
+Instead of downloading from S3 one can also directly copy the S3 content from a AWS SageMaker terminal. 
+
+```bash
+aws s3 cp --recursive s3://dlai-generative-ai/labs/w1-549876/ ./
+```
