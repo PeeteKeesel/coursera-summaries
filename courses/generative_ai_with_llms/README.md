@@ -13,11 +13,11 @@ The learning objectives of each week are stated as follows
 
 <table>
   <tr>
-    <th>Week</th>
-    <th>Learning Objectives</th>
-    <th>Lab</th>
-    <th>Resources</th>
-    <th>Quizzes</th>
+    <th>📅Week</th>
+    <th>🎯Learning Objectives</th>
+    <th>🔬Lab</th>
+    <th>📚Resources</th>
+    <th>📝Quizzes</th>
   </tr>
   <tr>
     <td>1️⃣</td>
