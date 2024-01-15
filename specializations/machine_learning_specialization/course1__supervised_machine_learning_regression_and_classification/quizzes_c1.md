@@ -1,4 +1,17 @@
-This file contains all the quizzes with answers and explanations for Course 1 of the Machine Learning Specialization from deeplearning.ai and Stanford. 
+This file contains all the quizzes with answers and explanations for Course :one: of the Machine Learning Specialization from deeplearning.ai and Stanford. 
+
+- [Week :one:](#week-one)
+  - [Quiz :clock1:: Supervised vs unsupervised learning](#quiz-clock1-supervised-vs-unsupervised-learning)
+  - [Quiz :clock2:: Regression Model](#quiz-clock2-regression-model)
+  - [Quiz :clock3:: Train the model with gradient descent](#quiz-clock3-train-the-model-with-gradient-descent)
+- [Week :two:](#week-two)
+  - [Quiz :clock1:: Multiple linear regression](#quiz-clock1-multiple-linear-regression)
+  - [Quiz :clock2:: Gradient descent in practice](#quiz-clock2-gradient-descent-in-practice)
+- [Week :three:](#week-three)
+  - [Quiz :clock1:: Classification with logistic regression](#quiz-clock1-classification-with-logistic-regression)
+  - [Quiz :clock2:: Cost function for logistic regression](#quiz-clock2-cost-function-for-logistic-regression)
+  - [Quiz :clock3:: Gradient descent for logistic regression](#quiz-clock3-gradient-descent-for-logistic-regression)
+  - [Quiz :clock4:: The problem of overfitting](#quiz-clock4-the-problem-of-overfitting)
 
 
 # Week :one:
