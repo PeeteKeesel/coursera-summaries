@@ -1,4 +1,28 @@
 
+## Learning Objectives
+
+Week :one: 
+- Define machine learning
+- Define supervised learning
+- Define unsupervised learning
+- Write and run Python code in Jupyter Notebooks
+- Define a regression model
+- Implement and visualize a cost function
+- Implement gradient descent
+- Optimize a regression model using gradient descent
+
+Week :two:
+- Use vectorization to implement multiple linear regression
+- Use feature scaling, feature engineering, and polynomial regression to improve model training
+- Implement linear regression in code
+
+Week :three: 
+- Use logistic regression for binary classification
+- Implement logistic regression for binary classification
+- Address overfitting using regularization, to improve model performance
+
+## Notes
+
 - _What is Machine Learning?_: "Field of study that gives computers the ability to learn without being explicitly programmed."
 - _Supervised Learning_
   - Learning input (x) to output (y) mapping 
