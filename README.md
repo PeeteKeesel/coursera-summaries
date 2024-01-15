@@ -4,7 +4,7 @@
 
 ## Specialisations
 
-- [Machine Learning Specialization](https://github.com/PeeteKeesel/coursera-summaries/blob/525f7711b8d25af49dedd3b13041a7ab0053f484/specializations/machine_learning_specialization) - deeplearning.ai & AWS
+- [Machine Learning Specialization](https://github.com/PeeteKeesel/coursera-summaries/blob/b5323eb33a57b0291f903028285907f366922454/specializations/machine_learning_specialization) - deeplearning.ai & AWS
 
 ## Courses 
 
