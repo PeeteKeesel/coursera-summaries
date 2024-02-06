@@ -16,17 +16,17 @@ University of Alberta
 
 ```
 Week 🕐 
-    - Understand the prerequisites, goals and roadmap for the course.
+  - Understand the prerequisites, goals and roadmap for the course.
 Week 🕑
-    - Understand Markov Decision Processes (MDP)
-    - Describe how the dynamics of an MDP are defined
-    - Understand the graphical representation of a Markov Decision Process
-    - Explain how many diverse processes can be written in terms of the MDP framework
-    - Describe how rewards relate to the goal of an agent
-    - Understand episodes and identify episodic tasks
-    - Formulate returns for continuing tasks using discounting
-    - Describe how returns at successive time steps are related to each other
-    - Understand when to formalize a task as episodic or continuing
+  - Understand Markov Decision Processes (MDP)
+  - Describe how the dynamics of an MDP are defined
+  - Understand the graphical representation of a Markov Decision Process
+  - Explain how many diverse processes can be written in terms of the MDP framework
+  - Describe how rewards relate to the goal of an agent
+  - Understand episodes and identify episodic tasks
+  - Formulate returns for continuing tasks using discounting
+  - Describe how returns at successive time steps are related to each other
+  - Understand when to formalize a task as episodic or continuing
 Week 🕒
 	- Recognize that a policy is a distribution over actions for each possible state
 	- Describe the similarities and differences between stochastic and deterministic policies

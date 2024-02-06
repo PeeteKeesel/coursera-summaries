@@ -14,7 +14,7 @@
       - [2.3.3. Upper-Confidence Bound (UCB) Action Selection](#233-upper-confidence-bound-ucb-action-selection)
   - [3. Week 🕑](#3-week-)
   - [4. Week 🕒](#4-week-)
-- [5. Week 🕓](#5-week-)
+  - [5. Week 🕓](#5-week-)
 
 
 On this page we will write down the learnings from the materical of course 1️⃣. This will contain the summaries of each video of the specialization. Note that these summaries are completely the content of the [University of Alberta](https://www.ualberta.ca/index.html) and [Coursera](https://www.coursera.org/). Thus, all the credit goes to them. This page should simply hold as a reference point for interested learners to quickly come back to the learned content.
@@ -125,4 +125,4 @@ $$
 
 ## 4. Week 🕒
 
-# 5. Week 🕓
+## 5. Week 🕓
