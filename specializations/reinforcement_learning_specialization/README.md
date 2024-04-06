@@ -71,7 +71,7 @@ Week 🕓
 
 ## 🏛️ Structure
 
-The specialisation is structured into three courses. Each course covers a multitude of topics split into three to four weeks. 
+The specialisation is structured into three courses. Each course covers a multitude of topics split into three to four weeks. Most weeks terminate with a combination of quizzes and labs (some only contain one of the two). The "📖Notes" column contains a notebook with summaries and notes for each course.
 
 <table>
   <tr>
@@ -79,12 +79,13 @@ The specialisation is structured into three courses. Each course covers a multit
     <td>💡Topic</td>
     <th>🔬Lab</th>
     <th>📝Quizzes</th>
+    <th>📖Notes</th>
   </tr>
   <!-- ------------------------------------------------------------ -->
   <!-- COURSE 1 -->                
   <!-- ------------------------------------------------------------ -->
   <tr>
-    <td colspan="4" align="center">
+    <td colspan="5" align="center">
       Course 1️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl">
         <code>Fundamentals of Reinforcement Learning</code>
       </a>     
@@ -93,33 +94,36 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>An Introduction to Sequential Decision-Making</td>
-    <td><a href="TODO">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/reinforcement_learning_specialization_C1/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/C1W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="TODO">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/3c79e600740495629272afce7206d630fc258404/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w1.md">quizzes</a>
+    </td>
+    <td rowspan="4">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/c21431e4bef9c2fcf44f48fbc8e390d0dfee8fc5/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/summaries_C1.ipynb">ipynb</a>    
     </td>
   </tr>
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Markov Decision Processes</td>
-    <td><a href="TODO">ipynb</a></td>
+    <td>None</td>
     <td rowspan="1">
-        <a href="TODO">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/c8c539b3bdaaae07dc8ffcc8fe1bcfafd5f3a917/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w2.md">quizzes</a>
     </td>
   </tr> 
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Value Functions & Bellman Equations</td>
-    <td><a href="TODO">ipynb</a></td>
+    <td>None</td>
     <td rowspan="1">
-        <a href="TODO">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/0842340e938d836d53154765247561d8068906bc/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w3.md">quizzes</a>
     </td>
   </tr> 
   <tr>
     <td rowspan="1" align="center">4️⃣</td>
     <td>Dynamic Programming</td>
-    <td><a href="TODO">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/reinforcement_learning_specialization_C1/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/C1W4_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="TODO">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/3c79e600740495629272afce7206d630fc258404/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w4.md">quizzes</a>
     </td>
   </tr>      
 </table>
