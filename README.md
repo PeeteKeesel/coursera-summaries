@@ -4,7 +4,6 @@
     <img src="coursera_logo.svg" width="300">
 </div>
 
-
 Welcome :wave:. This repository provides a curated collection of 🔬labs, 📝quizzes, and 📖summaries from Coursera courses and specializations I've completed. It's designed as a personal knowledge base to refresh and reinforce what I've learned. Here, you'll find concise summaries alongside practical exercises, serving both as a showcase of my journey and a resource for revisiting concepts. Feel free to explore and use it as a tool for your own learning and review.
 
 - :bow: It's important to note that the content is primarily sourced from Coursera.
