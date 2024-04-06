@@ -1,7 +1,7 @@
 # 🔍 Coursera Summaries 📝
 
-<div style="text-align: center;">
-    <img src="coursera_logo.svg" width="300">
+<div style="display: flex; justify-content: center;">
+    <img src="coursera_logo.svg" width="400">
 </div>
 
 Welcome :wave:. This repository provides a curated collection of 🔬labs, 📝quizzes, and 📖summaries from Coursera courses and specializations I've completed. It's designed as a personal knowledge base to refresh and reinforce what I've learned. Here, you'll find concise summaries alongside practical exercises, serving both as a showcase of my journey and a resource for revisiting concepts. Feel free to explore and use it as a tool for your own learning and review.
