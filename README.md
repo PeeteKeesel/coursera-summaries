@@ -33,6 +33,14 @@ Welcome :wave:. This repository provides a curated collection of 🔬labs, 📝q
     <td align="left"><code>specializations/reinforcement_learning_specialization/</code></td>
     <td align="center">🔄</td>
   </tr>  
+  <!-- Explainable AI Specialization -->
+  <tr>
+    <td align="left">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/explainable_ai_specialization">Explainable AI Specialization</a></td>  
+    <td align="left">Duke University</td>
+    <td align="left"><code>specializations/explainable_ai_specialization/</code></td>
+    <td align="center">🔄</td>
+  </tr>    
 </table>
 
 ## 📚 Courses 
