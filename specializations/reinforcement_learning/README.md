@@ -9,7 +9,7 @@ University of Alberta
 
 ## 🎯 Learning Objectives 
 
-- Course :one: 
+- Course 1️⃣ 
 
 <details>
   <summary>show learning objectives</summary>
@@ -66,7 +66,7 @@ Week 🕓
 
 </details>
 
-- Course :two: 
+- Course 2️⃣ 
 
 <details>
   <summary>show learning objectives</summary>
@@ -82,7 +82,7 @@ Week 🕓
 </details>
 
 
-- Course :three: 
+- Course 3️⃣
 
 ## 🏛️ Structure
 
@@ -101,7 +101,7 @@ The specialisation is structured into three courses. Each course covers a multit
   <!-- ------------------------------------------------------------ -->
   <tr>
     <td colspan="5" align="center">
-      Course 1️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl">
+      Course 1️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl">
         <code>Fundamentals of Reinforcement Learning</code>
       </a>     
     </td>
@@ -109,12 +109,12 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>An Introduction to Sequential Decision-Making</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/C1W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/C1W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/quiz_w1.md">quizzes</a>
     </td>
     <td rowspan="4">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/summaries_C1.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/summaries_C1.ipynb">ipynb</a>    
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ The specialisation is structured into three courses. Each course covers a multit
     <td>Markov Decision Processes</td>
     <td>None</td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w2.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/quiz_w2.md">quizzes</a>
     </td>
   </tr> 
   <tr>
@@ -130,15 +130,15 @@ The specialisation is structured into three courses. Each course covers a multit
     <td>Value Functions & Bellman Equations</td>
     <td>None</td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w3.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/quiz_w3.md">quizzes</a>
     </td>
   </tr> 
   <tr>
     <td rowspan="1" align="center">4️⃣</td>
     <td>Dynamic Programming</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/C1W4_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/C1W4_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w4.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course1_fundamentals_of_rl/quiz_w4.md">quizzes</a>
     </td>
   </tr> 
   <!-- ------------------------------------------------------------ -->
@@ -146,7 +146,7 @@ The specialisation is structured into three courses. Each course covers a multit
   <!-- ------------------------------------------------------------ -->
   <tr>
     <td colspan="5" align="center">
-      Course 2️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sampled_based_learning_methods">
+      Course 2️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sampled_based_learning_methods">
         <code>Sample-Based Learning Methods</code>
       </a>     
     </td>
@@ -154,9 +154,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>Monte-Carlo Methods for Predition & Control</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
@@ -165,9 +165,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Temporal Difference Learning Methods for Prediction</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W2_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W2_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w2.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w2.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W2.ipynb">ipynb</a>    
@@ -176,9 +176,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Temporal Difference Learning Methods for Control</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W3_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W3_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w3.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w3.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W3.ipynb">ipynb</a>    
@@ -187,9 +187,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">4️⃣</td>
     <td>Planning, Learning & Acting</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W4_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W4_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w4.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w4.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W4.ipynb">ipynb</a>    
