@@ -15,7 +15,7 @@ Duke University
 - Assess XAI systems for robustness, privacy, and ethical considerations, ensuring responsible AI development.
 - Apply XAI techniques to cutting-edge areas like Generative AI, staying ahead of emerging trends.
 
-## 🎯 Learning Objectives
+## 🎯 Learning Objectives & Skills
 
 - Course 1️⃣ 
 
@@ -41,6 +41,23 @@ Duke University
 
 </details>
 
+<details>
+  <summary>show skills</summary>
+
+```
+    - Describe interpretable machine learning and differentiate between interpretability and explainability. 
+    - Explain and implement regression models in Python.
+    - Demonstrate knowledge of generalized models in Python.
+    - Explain and implement decision trees in Python.
+    - Demonstrate knowledge of decision rules in Python.
+    - Define and explain neural network interpretable model approaches, including prototype-based networks, monotonic networks, and Kolmogorov-Arnold networks.
+    - Explain foundational Mechanistic Interpretability concepts, including features and circuits.
+    - Describe the Superposition Hypothesis.
+    - Define Representation Learning and be able to analyze current research on scaling Representation Learning to LLMs. 
+```
+
+</details>
+
 - Course 3️⃣ 
 
 ## 🏛️ Structure
@@ -49,7 +66,7 @@ The specialisation is structured into three courses. Each course covers a multit
 
 <table>
   <tr>
-    <th>📅Week</th>
+    <th>📅Module</th>
     <td>💡Topic</td>
     <th>🔬Lab</th>
     <th>📝Quizzes</th>
@@ -104,22 +121,29 @@ The specialisation is structured into three courses. Each course covers a multit
     </td>
   </tr>   
   <tr>
-    <td rowspan="1" align="center">1️⃣</td>
-    <td>Regression and Generalized Models</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td rowspan="2" align="center">1️⃣</td>
+    <td>Regression Models</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M1_1_regression_interpretability.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
+        None
     </td>
-    <td rowspan="1">
+    <td rowspan="2">
         <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
-    </td>  
+    </td>     
   </tr>
+  <tr>
+    <td>Generalized Models</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M1_1_regression_interpretability.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        None
+    </td>
+  </tr>  
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Rules, Trees and Neural Networks</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W2_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W2_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w2.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w2.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W2.ipynb">ipynb</a>    
@@ -128,9 +152,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Introduction to Mechanistic Interpretability</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W3_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W3_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w3.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w3.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W3.ipynb">ipynb</a>    
@@ -149,9 +173,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>Model-Agnostic Explainability</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w1.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
@@ -160,9 +184,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Explainable Deep Learning</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w1.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
@@ -171,9 +195,9 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Explainable Generative AI</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w1.md">quizzes</a>
     </td>
     <td rowspan="1">
         <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
