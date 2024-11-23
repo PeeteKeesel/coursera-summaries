@@ -20,25 +20,25 @@ Welcome :wave:. This repository provides a curated collection of 🔬labs, 📝q
   <!-- Machine Learning Specialization -->                
   <tr>
     <td align="left">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/machine_learning_specialization">Machine Learning Specialization</a></td>  
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/machine_learning">Machine Learning</a></td>  
     <td align="left">deeplearning.ai & AWS</td>
-    <td align="left"><code>specializations/machine_learning_specialization/</code></td>
+    <td align="left"><code>specializations/machine_learning/</code></td>
     <td align="center">✅</td>
   </tr>
   <!-- Reinforcement Learning Specialization -->                
   <tr>
     <td align="left">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/reinforcement_learning_specialization">Reinforcement Learning Specialization</a></td>  
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/reinforcement_learning">Reinforcement Learning</a></td>  
     <td align="left">University of Alberta</td>
-    <td align="left"><code>specializations/reinforcement_learning_specialization/</code></td>
+    <td align="left"><code>specializations/reinforcement_learning/</code></td>
     <td align="center">🔄</td>
   </tr>  
   <!-- Explainable AI Specialization -->
   <tr>
     <td align="left">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/explainable_ai_specialization">Explainable AI Specialization</a></td>  
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/explainable_ai">Explainable AI</a></td>  
     <td align="left">Duke University</td>
-    <td align="left"><code>specializations/explainable_ai_specialization/</code></td>
+    <td align="left"><code>specializations/explainable_ai/</code></td>
     <td align="center">🔄</td>
   </tr>    
 </table>

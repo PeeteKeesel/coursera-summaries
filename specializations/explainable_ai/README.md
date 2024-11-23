@@ -43,12 +43,13 @@ The specialisation is structured into three courses. Each course covers a multit
     <th>📝Quizzes</th>
     <th>📖Notes</th>
   </tr>
-  <!-- ------------------------------------------------------------ -->
+  <!-- 
+  ------------------------------------------------------------ -->
   <!-- COURSE 1 -->                
   <!-- ------------------------------------------------------------ -->
   <tr>
     <td colspan="5" align="center">
-      Course 1️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl">
+      Course 1️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai">
         <code>Developing Explainable AI</code>
       </a>     
     </td>
@@ -56,12 +57,12 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>Responsible AI</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/C1W1_Assignment.ipynb">ipynb</a></td>
+    <td>None</td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module1.md">quiz</a>
     </td>
-    <td rowspan="4">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/summaries_C1.ipynb">ipynb</a>    
+    <td rowspan="3">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/specializations/explainable_ai/course1_developing_explainable_ai/C1_Notes.ipynb">ipynb</a>    
     </td>
   </tr>
   <tr>
@@ -69,7 +70,7 @@ The specialisation is structured into three courses. Each course covers a multit
     <td>Explainable AI Overview</td>
     <td>None</td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w2.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module2.md">quiz1</a>, <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module2_2.md">quiz2</a>
     </td>
   </tr> 
   <tr>
@@ -77,7 +78,7 @@ The specialisation is structured into three courses. Each course covers a multit
     <td>Developing XAI Systems</td>
     <td>None</td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning_specialization/course1_fundamentals_of_rl/quiz_w3.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module3.md">quiz1</a>, <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module3_2.md">quiz2</a>, <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module3_3.md">quiz3</a>
     </td>
   </tr> 
   <!-- ------------------------------------------------------------ -->
@@ -85,7 +86,7 @@ The specialisation is structured into three courses. Each course covers a multit
   <!-- ------------------------------------------------------------ -->
   <tr>
     <td colspan="5" align="center">
-      Course 2️⃣:<br><a href="https://www.coursera.org/learn/interpretable-machine-learning?specialization=explainable-artificial-intelligence-xai">
+      Course 2️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning">
         <code>Interpretable Machine Learning</code>
       </a>     
     </td>
@@ -128,7 +129,7 @@ The specialisation is structured into three courses. Each course covers a multit
   <!-- ------------------------------------------------------------ -->
   <tr>
     <td colspan="5" align="center">
-      Course 2️⃣:<br><a href="https://www.coursera.org/learn/explainable-machine-learning-xai?specialization=explainable-artificial-intelligence-xai">
+      Course 2️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning">
         <code>Explainable Machine Learning</code>
       </a>     
     </td>
