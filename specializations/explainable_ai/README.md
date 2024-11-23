@@ -29,6 +29,18 @@ Duke University
 </details>
 
 - Course 2️⃣ 
+
+<details>
+  <summary>show learning objectives</summary>
+
+```
+    - Describe interpretable machine learning and differentiate between interpretability and explainability.
+    - Explain and implement regression models in Python.
+    - Demonstrate knowledge of generalized models in Python. 
+```
+
+</details>
+
 - Course 3️⃣ 
 
 ## 🏛️ Structure
@@ -62,7 +74,7 @@ The specialisation is structured into three courses. Each course covers a multit
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/quiz_module1.md">quiz</a>
     </td>
     <td rowspan="3">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/specializations/explainable_ai/course1_developing_explainable_ai/C1_Notes.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course1_developing_explainable_ai/C1_Notes.ipynb">ipynb</a>  
     </td>
   </tr>
   <tr>
