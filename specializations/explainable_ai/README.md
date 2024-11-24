@@ -133,9 +133,9 @@ The specialisation is structured into three courses. Each course covers a multit
   </tr>
   <tr>
     <td>Generalized Models</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M1_1_regression_interpretability.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M1_2_generalized_models_interpretability.ipynb">ipynb</a></td>
     <td rowspan="1">
-        None
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quizzes/quiz_module1.md">quiz1</a>
     </td>
   </tr>  
   <tr>
