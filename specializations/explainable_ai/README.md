@@ -23,7 +23,18 @@ Duke University
   <summary>show learning objectives</summary>
 
 ```
-    - 
+    Module 1
+    - Differentiate interpretability, explainability, and transparency in AI
+    - Identify algorithmic bias
+    - Critically examine ethical considerations in the context of responsible AI
+    Module 2
+    - Describe XAI techniques and approaches
+    - Examine the trade-offs and challenges in developing XAI systems
+    - Identify emerging trends in applying XAI to Generative AI
+    Module 3
+    - Integrate XAI explanations into decision-making processes
+    - Describe considerations for the evaluation of XAI systems
+    - Identify ways to ensure robustness and privacy in XAI systems
 ```
 
 </details>
@@ -124,41 +135,34 @@ The specialisation is structured into three courses. Each course covers a multit
     <td rowspan="2" align="center">1️⃣</td>
     <td>Regression Models</td>
     <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M1_1_regression_interpretability.ipynb">ipynb</a></td>
-    <td rowspan="1">
-        None
-    </td>
     <td rowspan="2">
-        <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quizzes/quiz_module1.md">quiz1</a>
+    </td>
+    <td rowspan="4">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_Notes.ipynb">ipynb</a>    
     </td>     
   </tr>
   <tr>
     <td>Generalized Models</td>
     <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M1_2_generalized_models_interpretability.ipynb">ipynb</a></td>
-    <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quizzes/quiz_module1.md">quiz1</a>
-    </td>
   </tr>  
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Rules, Trees and Neural Networks</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W2_Assignment.ipynb">ipynb</a></td>
-    <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w2.md">quizzes</a>
+    <td>
+      <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M2_1_decision_tree_interpretability.ipynb">ipynb</a> (DecisionTree), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M2_2_rulefit_interpretability.ipynb">ipynb</a> (RuleFit), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M2_3_kan_interpretability.ipynb">ipynb</a> (KAN)
     </td>
     <td rowspan="1">
-        <a href="TODO/summaries_C2W2.ipynb">ipynb</a>    
-    </td>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quizzes/quiz_module2.md">quiz2</a>
+    </td> 
   </tr> 
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Introduction to Mechanistic Interpretability</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W3_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2_M3_1_Main_Demo.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w3.md">quizzes</a>
-    </td>
-    <td rowspan="1">
-        <a href="TODO/summaries_C2W3.ipynb">ipynb</a>    
-    </td>     
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quizzes/quiz_module3.md">quiz3</a>
+    </td>   
   </tr> 
   <!-- ------------------------------------------------------------ -->
   <!-- COURSE 3 : Interpretable Machine Learning -->                
@@ -173,35 +177,31 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>Model-Agnostic Explainability</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
-    <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w1.md">quizzes</a>
+    <td>
+      <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M1_1_local_explanations.ipynb">ipynb</a> (local explanations), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M1_2_global_explanations.ipynb">ipynb</a> (global explanations), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M1_3_counterfactul_explanations.ipynb">ipynb</a> (counterfactual explanations)
     </td>
     <td rowspan="1">
-        <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module1.md">quiz</a>
+    </td>
+    <td rowspan="3">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3_Notes.ipynb">ipynb</a>    
     </td>  
   </tr>
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Explainable Deep Learning</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M2_1_saliency_maps.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module2.md">quizzes</a>
     </td>
-    <td rowspan="1">
-        <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
-    </td>  
   </tr>
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Explainable Generative AI</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course2_interpretable_machine_learning/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module3.md">quizzes</a>
     </td>
-    <td rowspan="1">
-        <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
-    </td>  
   </tr>                
 </table>
 
