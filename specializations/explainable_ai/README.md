@@ -183,8 +183,8 @@ The specialisation is structured into three courses. Each course covers a multit
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module1.md">quiz</a>
     </td>
-    <td rowspan="3">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3_Notes.ipynb">ipynb</a>    
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3M1_Notes.ipynb">ipynb</a>    
     </td>  
   </tr>
   <tr>
@@ -194,6 +194,9 @@ The specialisation is structured into three courses. Each course covers a multit
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module2.md">quizzes</a>
     </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3M2_Notes.ipynb">ipynb</a>    
+    </td>      
   </tr>
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
@@ -202,6 +205,9 @@ The specialisation is structured into three courses. Each course covers a multit
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module3.md">quizzes</a>
     </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3M3_Notes.ipynb">ipynb</a>    
+    </td>      
   </tr>                
 </table>
 
