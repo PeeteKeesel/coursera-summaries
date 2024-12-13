@@ -4,9 +4,9 @@
   <img width="400" height="75" src="coursera_logo.svg">
 </p>
 
-Welcome :wave:. This repository provides a curated collection of 🔬labs, 📝quizzes, and 📖summaries from Coursera courses and specializations I've completed. It's designed as a personal knowledge base to refresh and reinforce what I've learned. Here, you'll find concise summaries alongside practical exercises, serving both as a showcase of my journey and a resource for revisiting concepts. Feel free to explore and use it as a tool for your own learning and review.
+Welcome 👋. This repository provides a curated collection of 🔬labs, 📝quizzes, and 📖summaries from Coursera courses and specializations I've completed. It's designed as a personal knowledge base to refresh and reinforce what I've learned. Here, you'll find concise summaries alongside practical exercises, serving both as a showcase of my journey and a resource for revisiting concepts. Feel free to explore and use it as a tool for your own learning and review.
 
-- :bow: It's important to note that the content is primarily sourced from Coursera.
+- 🙇 It's important to note that the content is primarily sourced from Coursera.
 
 ## 🎓 Specializations
 
@@ -39,7 +39,7 @@ Welcome :wave:. This repository provides a curated collection of 🔬labs, 📝q
         <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/explainable_ai">Explainable AI</a></td>  
     <td align="left">Duke University</td>
     <td align="left"><code>specializations/explainable_ai/</code></td>
-    <td align="center">🔄</td>
+    <td align="center">✅</td>
   </tr>    
 </table>
 

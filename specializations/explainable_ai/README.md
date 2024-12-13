@@ -17,10 +17,30 @@ Duke University
 
 ## 🎯 Learning Objectives & Skills
 
-- Course 1️⃣ 
+- **Course 1️⃣** (Developing XAI)
 
 <details>
-  <summary>show learning objectives</summary>
+  <summary>What you'll learn:</summary>
+
+```
+    - Define key Explainable AI terminology and their relationships to each other
+    - Describe commonly used interpretable and explainable approaches and their trade-offs
+    - Evaluate considerations for developing XAI systems, including XAI evaluation approach, robustness, privacy, and integration with decision-making
+```
+
+</details>
+
+<details>
+  <summary>Skills:</summary>
+
+```
+    XAI, ML, AI, Interpretable ML
+```
+
+</details>
+
+<details>
+  <summary>Show learning objectives:</summary>
 
 ```
     Module 1
@@ -39,37 +59,92 @@ Duke University
 
 </details>
 
-- Course 2️⃣ 
+- **Course 2️⃣** (Interpretable ML)
 
 <details>
-  <summary>show learning objectives</summary>
+  <summary>What you'll learn:</summary>
 
 ```
+    - Describe and implement regression and generalized interpretable models
+    - Demonstrate knowledge of decision trees, rules, and interpretable neural networks
+    - Explain foundational Mechanistic Interpretability concepts, hypotheses, and experiments
+```
+
+</details>
+
+<details>
+  <summary>Skills:</summary>
+
+```
+    ML, Responsible AI, AI, Mechanistic Interpretability, Interpretable ML
+```
+
+</details>
+
+<details>
+  <summary>Show learning objectives:</summary>
+
+```
+    Module 1
     - Describe interpretable machine learning and differentiate between interpretability and explainability.
     - Explain and implement regression models in Python.
     - Demonstrate knowledge of generalized models in Python. 
+
+    Module 2
+    - Explain and implement decision trees in Python.
+    - Demonstrate knowledge of decision rules in Python.
+    - Define and explain neural network interpretable model approaches, including prototype-based networks, monotonic networks, and Kolmogorov-Arnold networks.
+
+    Module 3
+    - Explain foundational Mechanistic Interpretability concepts, including features and circuits.
+    - Describe the Superposition Hypothesis.
+    - Define Representation Learning and be able to analyze current research on scaling Representation Learning to LLMs.
+```
+
+</details>
+
+- **Course 3️⃣** (XAI)
+
+<details>
+  <summary>What you'll learn:</summary>
+
+```
+    - Explain and implement model-agnostic explainability methods.
+    - Visualize and explain neural network models using SOTA techniques.
+    - Describe emerging approaches to explainability in large language models (LLMs) and generative computer vision.
 ```
 
 </details>
 
 <details>
-  <summary>show skills</summary>
+  <summary>Skills:</summary>
 
 ```
-    - Describe interpretable machine learning and differentiate between interpretability and explainability. 
-    - Explain and implement regression models in Python.
-    - Demonstrate knowledge of generalized models in Python.
-    - Explain and implement decision trees in Python.
-    - Demonstrate knowledge of decision rules in Python.
-    - Define and explain neural network interpretable model approaches, including prototype-based networks, monotonic networks, and Kolmogorov-Arnold networks.
-    - Explain foundational Mechanistic Interpretability concepts, including features and circuits.
-    - Describe the Superposition Hypothesis.
-    - Define Representation Learning and be able to analyze current research on scaling Representation Learning to LLMs. 
+    NN Models, XAI, ML, AI, Interpretable ML
 ```
 
 </details>
 
-- Course 3️⃣ 
+<details>
+  <summary>Show learning objectives:</summary>
+
+```
+    Module 1
+    - Explain and implement local explainable techniques LIME, SHAP, and ICE plots in Python.
+    - Explain and implement global explainable techniques PDP and ALE plots in Python.
+    - Demonstrate knowledge of example-based explanations in Python.
+
+    Module 2
+    - Explain and implement neural network visualization and explanation techniques in Python.
+    - Recognize and critique interpretable attention and saliency methods.
+
+    Module 3
+    - Explain emerging approaches to explainability in large language models (LLMs).
+    - Describe emerging approaches to explainability in generative computer vision.
+    - Identify emerging trends in generative AI explainability.
+```
+
+</details>
 
 ## 🏛️ Structure
 
@@ -181,7 +256,7 @@ The specialisation is structured into three courses. Each course covers a multit
       <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M1_1_local_explanations.ipynb">ipynb</a> (local explanations), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M1_2_global_explanations.ipynb">ipynb</a> (global explanations), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M1_3_counterfactul_explanations.ipynb">ipynb</a> (counterfactual explanations)
     </td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module1.md">quiz</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module1.md">quiz1</a>
     </td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3M1_Notes.ipynb">ipynb</a>    
@@ -190,9 +265,11 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>Explainable Deep Learning</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M2_1_saliency_maps.ipynb">ipynb</a></td>
+    <td>
+      <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M2_1_saliency_maps.ipynb">ipynb</a> (saliency maps), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M2_2_testing_concept_activation_vectors.ipynb">ipynb</a> (concept activation vectors)
+    </td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module2.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module2.md">quiz2</a>
     </td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3M2_Notes.ipynb">ipynb</a>    
@@ -201,9 +278,11 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Explainable Generative AI</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td>
+      <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M3_1_embedding_visualization.ipynb">ipynb</a> (embeddings visualization), <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/M3_2_gandissect_solutions.ipynb">ipynb</a> (GANdissect)
+    </td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module3.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/quizzes/quiz_module3.md">quiz3</a>
     </td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/explainable_ai/course3_explainable_machine_learning/C3M3_Notes.ipynb">ipynb</a>    
