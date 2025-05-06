@@ -90,7 +90,7 @@ The specialisation is structured into three courses. Each course covers a multit
 
 <table>
   <tr>
-    <th>📅Week</th>
+    <th>Module</th>
     <td>💡Topic</td>
     <th>🔬Lab</th>
     <th>📝Quizzes</th>
@@ -152,47 +152,47 @@ The specialisation is structured into three courses. Each course covers a multit
     </td>
   </tr>   
   <tr>
-    <td rowspan="1" align="center">1️⃣</td>
+    <td rowspan="1" align="center">2️⃣</td>
     <td>Monte-Carlo Methods for Predition & Control</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W1_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2M2_Assignment_Blackjack.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_m2.md">quizzes</a>
     </td>
     <td rowspan="1">
-        <a href="TODO/summaries_C2W1.ipynb">ipynb</a>    
-    </td>  
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/summaries_C2M2.ipynb">ipynb</a>    
+    </td>   
   </tr>
   <tr>
-    <td rowspan="1" align="center">2️⃣</td>
-    <td>Temporal Difference Learning Methods for Prediction</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W2_Assignment.ipynb">ipynb</a></td>
-    <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w2.md">quizzes</a>
-    </td>
-    <td rowspan="1">
-        <a href="TODO/summaries_C2W2.ipynb">ipynb</a>    
-    </td>    
-  </tr> 
-  <tr>
     <td rowspan="1" align="center">3️⃣</td>
-    <td>Temporal Difference Learning Methods for Control</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W3_Assignment.ipynb">ipynb</a></td>
+    <td>Temporal Difference Learning Methods for Prediction</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2M3_Assignment_TD0.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w3.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_m3.md">quizzes</a>
     </td>
     <td rowspan="1">
-        <a href="TODO/summaries_C2W3.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/summaries_C2M3.ipynb">ipynb</a>    
     </td>     
   </tr> 
   <tr>
     <td rowspan="1" align="center">4️⃣</td>
-    <td>Planning, Learning & Acting</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2W4_Assignment.ipynb">ipynb</a></td>
+    <td>Temporal Difference Learning Methods for Control</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2M4_TODO.ipynb">ipynb</a></td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_w4.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_m4.md">quizzes</a>
     </td>
     <td rowspan="1">
-        <a href="TODO/summaries_C2W4.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/summaries_C2M4.ipynb">ipynb</a>    
+    </td>     
+  </tr> 
+  <tr>
+    <td rowspan="1" align="center">5️⃣</td>
+    <td>Planning, Learning & Acting</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/C2M5_Assignment.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/quiz_m5.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sample_based_learning_methods/summaries_C2M5.ipynb">ipynb</a>    
     </td>     
   </tr>       
 </table>
