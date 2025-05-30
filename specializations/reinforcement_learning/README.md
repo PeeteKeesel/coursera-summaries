@@ -208,7 +208,7 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">2️⃣</td>
     <td>On-Policy Prediction with Approximation</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M2_Assignment_Blackjack.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M2_Assignment_SemiGradientTD0.ipynb">ipynb</a></td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m2.md">quizzes</a>
     </td>
