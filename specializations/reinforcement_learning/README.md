@@ -219,13 +219,10 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">3️⃣</td>
     <td>Construction Features for Prediction</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M3_Assignment_TD0.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M3_Assignment_SemiGradientTDwithNN.ipynb">ipynb</a></td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m3.md">quizzes</a>
-    </td>
-    <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/summaries_C3M3.ipynb">ipynb</a>    
-    </td>     
+    </td>  
   </tr> 
   <tr>
     <td rowspan="1" align="center">4️⃣</td>
