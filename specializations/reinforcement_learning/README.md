@@ -238,7 +238,7 @@ The specialisation is structured into three courses. Each course covers a multit
   <tr>
     <td rowspan="1" align="center">5️⃣</td>
     <td>Policy Gradient</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M5_Assignment.ipynb">ipynb</a></td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M5_Assignment_AvgRewardSoftmaxActorCritic.ipynb">ipynb</a></td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m5.md">quizzes</a>
     </td>
