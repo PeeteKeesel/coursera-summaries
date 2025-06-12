@@ -194,7 +194,58 @@ The specialisation is structured into three courses. Each course covers a multit
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course2_sampled_based_learning_methods/summaries_C2M5.ipynb">ipynb</a>    
     </td>     
-  </tr>       
+  </tr>   
+  <!-- ------------------------------------------------------------ -->
+  <!-- COURSE 3 : Prediction and Control with Function Approximation-->                
+  <!-- ------------------------------------------------------------ -->
+  <tr>
+    <td colspan="5" align="center">
+      Course 3️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx">
+        <code>Prediction and Control with Function Approximation</code>
+      </a>     
+    </td>
+  </tr>  
+  <tr>
+    <td rowspan="1" align="center">2️⃣</td>
+    <td>On-Policy Prediction with Approximation</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M2_Assignment_SemiGradientTD0.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m2.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/summaries_C3M2.ipynb">ipynb</a>    
+    </td>   
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">3️⃣</td>
+    <td>Construction Features for Prediction</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M3_Assignment_SemiGradientTDwithNN.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m3.md">quizzes</a>
+    </td>  
+  </tr> 
+  <tr>
+    <td rowspan="1" align="center">4️⃣</td>
+    <td>Control with Approximation</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M4_QLearning_and_Expected_Sarsa.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m4.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/summaries_C3M4.ipynb">ipynb</a>    
+    </td>     
+  </tr> 
+  <tr>
+    <td rowspan="1" align="center">5️⃣</td>
+    <td>Policy Gradient</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/C3M5_Assignment.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m5.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/summaries_C3M5.ipynb">ipynb</a>    
+    </td>     
+  </tr>        
 </table>
 
 ## 📚 Resources
