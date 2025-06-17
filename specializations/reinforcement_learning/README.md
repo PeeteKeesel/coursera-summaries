@@ -243,9 +243,73 @@ The specialisation is structured into three courses. Each course covers a multit
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/quiz_m5.md">quizzes</a>
     </td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/summaries_C3M5.ipynb">ipynb</a>    
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course3_prediction_and_control_with_func_approx/summaries_C3M5.ipynb">ipynb</a>
+    </td>
+  </tr>
+  <!-- -------------------------------------------------------------- -->
+  <!-- COURSE 4 : A Complete Reinforcement Learning System (Capstone) -->
+  <!-- -------------------------------------------------------------- -->
+  <tr>
+    <td colspan="5" align="center">
+      Course 4️⃣:<br><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project">
+        <code>A Complete RL System (Capstone)</code>
+      </a>     
+    </td>
+  </tr>  
+  <tr>
+    <td rowspan="1" align="center">2️⃣</td>
+    <td>Formalize Word Problem as MDP</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/C4M2_Assignment_LunarLanderEnv.ipynb">ipynb</a></td>
+    <td rowspan="1">
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/summaries_C4M2.ipynb">ipynb</a>    
+    </td>   
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">3️⃣</td>
+    <td>Choosing The Right Algorithm</td>
+    <td></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/quiz_m3.md">quizzes</a>
+    </td> 
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/summaries_C4M3.ipynb">ipynb</a>    
+    </td>
+  </tr> 
+  <tr>
+    <td rowspan="1" align="center">4️⃣</td>
+    <td>Identify Key Performance Parameters</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/C4M4_TODO.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/quiz_m4.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/summaries_C4M4.ipynb">ipynb</a>    
     </td>     
-  </tr>        
+  </tr> 
+  <tr>
+    <td rowspan="1" align="center">5️⃣</td>
+    <td>Implement Your Agent</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/C4M5_TODO.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/quiz_m5.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/summaries_C4M5.ipynb">ipynb</a>    
+    </td>     
+  </tr>
+  <tr>
+    <td rowspan="1" align="center">6️⃣</td>
+    <td>Submit Your Parameter Study</td>
+    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/C4M6_TODO.ipynb">ipynb</a></td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/quiz_m6.md">quizzes</a>
+    </td>
+    <td rowspan="1">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/specializations/reinforcement_learning/course4_capstone_project/summaries_C4M6.ipynb">ipynb</a>    
+    </td>     
+  </tr>          
 </table>
 
 ## 📚 Resources
