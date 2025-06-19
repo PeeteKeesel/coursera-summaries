@@ -31,7 +31,7 @@ Welcome 👋. This repository provides a curated collection of 🔬labs, 📝qui
         <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/reinforcement_learning">Reinforcement Learning</a></td>  
     <td align="left">University of Alberta</td>
     <td align="left"><code>specializations/reinforcement_learning/</code></td>
-    <td align="center">🔄</td>
+    <td align="center">✅</td>
   </tr>  
   <!-- Explainable AI Specialization -->
   <tr>
