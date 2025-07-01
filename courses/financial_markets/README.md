@@ -15,8 +15,8 @@ This course is structured into 7 modules. The "📖Notes" column contains a note
   <tr>
     <th>Module</th>
     <td>💡Topic</td>
-    <th>🔬Lab</th>
-    <th>📝Quizzes</th>
+    <th>🔬Final Quiz</th>
+    <th>📝Lesson Quizzes</th>
     <th>📖Notes</th>
   </tr>
   <!-- ------------------------------------------------------------ -->
@@ -25,9 +25,11 @@ This course is structured into 7 modules. The "📖Notes" column contains a note
   <tr>
     <td rowspan="1" align="center">1️⃣</td>
     <td>Basics of Financial Markets, Insurance, CAPM</td>
-    <td><a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/01_Module.ipynb">ipynb</a></td>
+    <td>
+    <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/quiz_Module_01.md">quizFinal</a>
+    </td>
     <td rowspan="1">
-        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/quiz_w1.md">quizzes</a>
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/quiz_02.md">quiz02</a>, <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/quiz_03.md">quiz03</a>, <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/quiz_04.md">quiz04</a>
     </td>
     <td rowspan="1">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/blob/main/courses/financial_markets/01_Module.ipynb">ipynb</a>
