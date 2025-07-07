@@ -6,6 +6,8 @@
 
 ![](imgs/m3l8-console-and-annuity.png)
 
+![](imgs/m3l8-leverage.png)
+
 ### Lesson 9
 
 ![](imgs/m3l9-.png)
