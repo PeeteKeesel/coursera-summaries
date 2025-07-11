@@ -10,7 +10,7 @@
 
 ### Lesson 9
 
-![](imgs/m3l9-.png)
+![](imgs/m3l9-for-profit-non-profit.png)
 
 ![](imgs/m3l9-.png)
 
