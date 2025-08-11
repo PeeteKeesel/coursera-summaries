@@ -17,7 +17,7 @@ Welcome 👋. This repository provides a curated collection of 🔬labs, 📝qui
     <th align="center">📁Folder</th>
     <th align="center">🔍Status</th>
   </tr>
-  <!-- Machine Learning Specialization -->                
+  <!-- Machine Learning Specialization -->
   <tr>
     <td align="left">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/machine_learning">Machine Learning</a></td>  
@@ -25,7 +25,7 @@ Welcome 👋. This repository provides a curated collection of 🔬labs, 📝qui
     <td align="left"><code>specializations/machine_learning/</code></td>
     <td align="center">✅</td>
   </tr>
-  <!-- Reinforcement Learning Specialization -->                
+  <!-- Reinforcement Learning Specialization -->
   <tr>
     <td align="left">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/specializations/reinforcement_learning">Reinforcement Learning</a></td>  
@@ -52,7 +52,7 @@ Welcome 👋. This repository provides a curated collection of 🔬labs, 📝qui
     <th align="center">📁Folder</th>
     <th align="center">🔍Status</th>
   </tr>
-  <!-- Generative AI with LLMs -->                
+  <!-- Generative AI with LLMs -->
   <tr>
     <td align="left">
         <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/courses/generative_ai_with_llms">Generative AI with LLMs</a></td>  
@@ -60,4 +60,12 @@ Welcome 👋. This repository provides a curated collection of 🔬labs, 📝qui
     <td align="left"><code>courses/generative_ai_with_llms/</code></td>
     <td align="center">✅</td>
   </tr>
+  <!-- Financial Markets -->
+  <tr>
+    <td align="left">
+        <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/courses/financial_markets">Financial Markets</a></td>  
+    <td align="left">Yale</td>
+    <td align="left"><code>courses/financial_markets/</code></td>
+    <td align="center">⏳</td>
+  </tr>  
 </table>
