@@ -66,6 +66,6 @@ Welcome 👋. This repository provides a curated collection of 🔬labs, 📝qui
         <a href="https://github.com/PeeteKeesel/coursera-summaries/tree/main/courses/financial_markets">Financial Markets</a></td>  
     <td align="left">Yale</td>
     <td align="left"><code>courses/financial_markets/</code></td>
-    <td align="center">⏳</td>
+    <td align="center">✅</td>
   </tr>  
 </table>
